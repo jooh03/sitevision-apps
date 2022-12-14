@@ -74,7 +74,7 @@ export { _delete as delete };
  *
  * @param callback The callback to trigger
  */
-export function use(callback: () => void): void;
+export function use(callback: (req: IRequest, res: IResponse, next: () => void) => void): void;
 
 export function getUrl(url: string): string;
 export function getStandaloneUrl(url: string): string;
