@@ -36,6 +36,7 @@ import './server/ResourceLocatorUtil';
 import './server/RestApi';
 import './server/RoleMatcher';
 import './server/RoleMatcherBuilder';
+import './server/RoleUtil';
 import './server/storage';
 import './server/SystemUserUtil';
 import './server/TimestampUtil';
