@@ -25,6 +25,7 @@ import './server/LocaleUtil';
 import './server/LocaleUtil';
 import './server/LogUtil';
 import './server/Mail';
+import './server/MailBuilder';
 import './server/oauth2';
 import './server/PortletContextUtil';
 import './server/privileged';
