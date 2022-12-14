@@ -24,6 +24,7 @@ import './server/LandingPageUtil';
 import './server/LocaleUtil';
 import './server/LocaleUtil';
 import './server/LogUtil';
+import './server/Mail';
 import './server/oauth2';
 import './server/PortletContextUtil';
 import './server/privileged';
